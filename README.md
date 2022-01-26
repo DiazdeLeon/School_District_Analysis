@@ -44,7 +44,7 @@ In the following charts, is observed a ranking of the school sorted by the highe
 
 It is observed that in the original analysis Thomas High School ranked in the 2nd place from the 15 analyzed high schools. After removing the 9th grade students, Thomas High School dropped to the 8th rank.  
 
-As a conclusion, it is clear the withdraw of the 9th grade students affected to the position of Thomas High School in the ranking of schools. 
+***As a conclusion, it is clear the withdraw of the 9th grade students affected to the position of Thomas High School in the ranking of schools.*** 
 
 ## 2.4	How does replacing the ninth-grade scores affect math and reading scores by grade
 
