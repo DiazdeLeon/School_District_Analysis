@@ -6,7 +6,7 @@ In the following analysis, original analysis will be referred as the one which c
 
 # 2.	Results of the School District Analysis
 
-2.1 How is the district summary affected?
+## 2.1 How is the district summary affected?
 To perform an analysis, it was necessary to round the figures to 1 decimal. 
 
 Original analysis
@@ -27,7 +27,7 @@ As a conclusion, the disregard of Thomas High School does not significantly affe
 
 2.2 How is the school summary affected?
 
-<p align="center"> ![image](https://user-images.githubusercontent.com/95872614/151092719-dd60b8d5-9a21-4122-8a79-194f5b62898e.png)
+![image](https://user-images.githubusercontent.com/95872614/151092719-dd60b8d5-9a21-4122-8a79-194f5b62898e.png)
 
 <p align="justify"> In the school summary is observed that after the adjustment the scores did not change significantly. Before the adjustment in average math score the figure was 83.42 after the adjustment 83.35; average reading score 83.85, after the adjustment 83.90.  a matter of fact, these figures fit in the total average. However, when the percentages of passing math and reading are revised, Thomas School figures dropped significantly, for example in the percentage of students passing math before the adjustment was 93.27 after the adjustment 66.91 and the same trend in the percentage of students passing reading, before the adjustment was 97.31 and after the adjustment 69.66, of course in the total overall is reflected from  90.95% to 65.07%. As a conclusion, the removal of 9th grade students from the Thomas School total, it affected significantly the percentages of passed per subject and in the overall.  
 
