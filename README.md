@@ -23,7 +23,8 @@ It is observed that the district summary it was not affected significantly. Only
 -	Percentage of students who passed math, before the adjustment the figure was 75 while after the adjustment was 74.8, just two decimals below.
 -	Percentage of students who passed reading, before the adjustment the figure was 85.8 while after the adjustment was 85.7, just one decimal below.
 -	Percentage of students who passed math and reading, before the adjustment the figure was 65.2 while after the adjustment was 64.9, just three decimals below.
-As a conclusion, the disregard of Thomas High School does not significantly affect the district summary scores and percentages of students who passed math and reading subjects. 
+
+ ***As a conclusion, the disregard of Thomas High School does not significantly affect the district summary scores and percentages of students who passed math and reading subjects.*** 
 
 ## 2.2 How is the school summary affected?
 
@@ -33,7 +34,7 @@ As a conclusion, the disregard of Thomas High School does not significantly affe
  
 <p align="justify"> However, when the percentages of passing math and reading are revised, Thomas School figures dropped significantly, for example in the percentage of students passing math before the adjustment was 93.27 after the adjustment 66.91 and the same trend in the percentage of students passing reading, before the adjustment was 97.31 and after the adjustment 69.66, of course in the total overall is reflected from  90.95% to 65.07%. 
  
- <p align="justify"> ***As a conclusion, the removal of 9th grade students from the Thomas School total, it affected significantly the percentages of passed per subject and in the overall.***  
+ ***As a conclusion, the removal of 9th grade students from the Thomas School total, it affected significantly the percentages of passed per subject and in the overall.***  
 
 ## 2.3 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
