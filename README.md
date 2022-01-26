@@ -33,7 +33,7 @@ As a conclusion, the disregard of Thomas High School does not significantly affe
  
 <p align="justify"> However, when the percentages of passing math and reading are revised, Thomas School figures dropped significantly, for example in the percentage of students passing math before the adjustment was 93.27 after the adjustment 66.91 and the same trend in the percentage of students passing reading, before the adjustment was 97.31 and after the adjustment 69.66, of course in the total overall is reflected from  90.95% to 65.07%. 
  
- ***As a conclusion, the removal of 9th grade students from the Thomas School total, it affected significantly the percentages of passed per subject and in the overall.***  
+ <p align="justify"> ***As a conclusion, the removal of 9th grade students from the Thomas School total, it affected significantly the percentages of passed per subject and in the overall.***  
 
 ## 2.3 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
