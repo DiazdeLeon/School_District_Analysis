@@ -67,8 +67,11 @@ The decision to remove the 9th grade students from the Thomas High School, broug
 # 3.	Summary of School District Analysis
 
 3.1 Thomas High School ranked in the 2nd place before the adjustment, after that it dropped to the 8th rank. 
+ 
 3.2 The withdrawn of 9th grade students from the Thomas School total, it mainly affected the percentages of passed per subject and in the overall significantly at the school level. The overall passing rate of Thomas High School changed dramatically from 90.9% to 65.1%, while passing math went from 93.3% to 66.9% and reading from 97.3% to 69.7%.
+ 
 3.3 At the grade level the scores per subject will be NaN for the 9th grade students.
+ 
 3.4 At school spending and school size and type the removal of the 9th grade students of the Thomas High School did not impact significantly the final results.  
  
 
