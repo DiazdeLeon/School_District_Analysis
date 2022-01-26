@@ -59,7 +59,7 @@ The decision to remove the 9th grade students from the Thomas High School, broug
 
 <p align="justify"> In the analysis per school type, it was followed the same trend. The removal of Thomas High School has not a significant impact. This school fits in the category of Charter and it is observed that in the average math and reading score the withdraw of the school did not change the total figures. This adjustment in the analysis is slightly showed on the percentages of passing each subject and the overall. From 96.63 in %passing math in the original analysis to 96.61%. in % passing reading from 96.59% to 96.55% and in the overall from 90.43% to 90.39%. Finally, as a conclusion, the withdraw of the 9th grade students from the Thomas High School has not a significant impact in the school district analysis.  
 
-3.	Summary of School District Analysis
+# 3.	Summary of School District Analysis
 
 ## 3.1 Thomas High School ranked in the 2nd place before the adjustment, after that it dropped to the 8th rank. 
 ## 3.2 The withdrawn of 9th grade students from the Thomas School total, it mainly affected the percentages of passed per subject and in the overall significantly at the school level. The overall passing rate of Thomas High School changed dramatically from 90.9% to 65.1%, while passing math went from 93.3% to 66.9% and reading from 97.3% to 69.7%.
